@@ -1,0 +1,8 @@
+01 git init(初始化)
+02 git remote add jinyan git@github.com:RanJinYan/Jinyan1204.git(远程仓库的地址)
+03 git pull jinyan(远程仓库的名字)
+04 git pull jinyan master(本地仓库的名字)
+05 git add . (提交)
+06 git log(提交记录)
+07 git cimmit -m'文件描述'
+08 git push -u jinyan master(推送，第一次提交需要-u，后面的就不需要)
