@@ -6,3 +6,4 @@
 06 git log(提交记录)
 07 git cimmit -m'文件描述'
 08 git push -u jinyan master(推送，第一次提交需要-u，后面的就不需要)
+09
